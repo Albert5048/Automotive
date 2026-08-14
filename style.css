@@ -14,7 +14,7 @@
 
 body{
     
-    background-image:url('images/wall2.jpg');
+    background-image:url("images/wall2.jpg");
     background-repeat: no-repeat;
     background-size: contain; 
     overflow-x:hidden;  
@@ -177,7 +177,7 @@ nav .social a i:hover{
 .img4{
     height: 700px;
     width: 100%;
-    background-image:url('images/carimg.webp');
+    background-image:url("images/carimg.webp");
     background-size: contain;
     background-repeat: no-repeat;
   }
